@@ -1,8 +1,9 @@
 # 1.1 Python Review: print(), input(), casting, math operators
 
 ## Python Review Notes
-[print(),input(), variables, casting, math operators ](https://colab.research.google.com/drive/1JSrOECf5FeozLVAlGu7IDqGoR6bf3mR1?usp=sharing)
+[Notes](https://drive.google.com/drive/folders/1qjB9FMWxZHhXOouDr0D22zN7S0-rF4_w?usp=drive_link)
 
+<br></br><br></br>
 ## Apple Distribution on a Field Trip
 **Objective**: Write a Python script to determine how many apples each student will get and how many apples will remain in the basket after distributing them evenly.
 
@@ -21,6 +22,7 @@ calculate how many apples will remain in the basket after distributing the apple
 - Print a sentence stating the number of apples each student will receive.
 - Print a second sentence stating the number of apples that will remain in the basket.
 
+<br></br><br></br>
 ## Elapsed Time Calculation
 **Objective**: Write a Python script to determine how many full hours and full minutes have elapsed since midnight given a number of seconds.
 
