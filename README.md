@@ -36,5 +36,9 @@ calculate how many apples will remain in the basket after distributing the apple
 
 **Output**
 
-- The program should print two numbers: the number of hours (between 0 and 23) and the number of minutes (between 0 and 1339).
-    - Example 
+- The program should print three numbers separated by ":"s.: the number of hours, the number of minutes (between 0 and 1339) and the number of seconds(between 0 and 59).
+
+    Format: hh:mm: ss
+    - Example:
+        - 3661 seconds --> 1:1:1
+        - 54545 seconds --> 15:9:5
