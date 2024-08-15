@@ -1,4 +1,7 @@
-# 1.1 Python Review: print(), innput(), casting, math operators
+# 1.1 Python Review: print(), input(), casting, math operators
+
+## Python Review Notes
+[print(),input(), variables, casting, math operators ](https://colab.research.google.com/drive/1JSrOECf5FeozLVAlGu7IDqGoR6bf3mR1?usp=sharing)
 
 ## Apple Distribution on a Field Trip
 **Objective**: Write a Python script to determine how many apples each student will get and how many apples will remain in the basket after distributing them evenly.
