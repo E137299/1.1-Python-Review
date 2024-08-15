@@ -1,4 +1,4 @@
-# 1.1-Python-Review: print(), innput(), casting, math operators
+# 1.1 Python Review: print(), innput(), casting, math operators
 
 ## Apple Distribution on a Field Trip
 **Objective**: Write a Python script to determine how many apples each student will get and how many apples will remain in the basket after distributing them evenly.
